@@ -1,4 +1,4 @@
 {
-    "mongoURI": "mongodb+srv://gulrez123:gulrez23@contactkeeper-hvjuz.mongodb.net/test?retryWrites=true",
+    "mongoURI": "mongodb+srv://gulrez123:gulrez123@contactkeeper.osw69.mongodb.net/<dbname>?retryWrites=true&w=majority",
     "jwtSecret": "secret"
 }
